@@ -1,0 +1,17 @@
+.transactioninput{
+    width: 100%;
+    
+}
+.transaction-input{
+    padding:0.5rem;
+    width: 93%;
+    margin: 0.5rem;
+    margin-left:0;
+}
+.transaction-submit{
+    width: 98%;
+    padding:0.5rem;
+    background-color: #9C88FF;
+    color:white;
+    border: 1px solid gainsboro;
+}

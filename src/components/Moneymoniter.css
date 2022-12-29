@@ -1,0 +1,32 @@
+.money-moniter{
+    padding:1rem;
+}
+.bal{
+font-weight: 500;
+padding-bottom: 1rem;
+}
+.bal-head{
+font-size: 1.5rem;
+}
+.bal-value{
+font-size: 2.3rem;
+}
+.cost{
+    background-color: white;
+    padding:1rem;
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.3rem;
+    border: 1px solid #D8D8D8;
+    box-sizing: border-box;
+}
+.inc{
+    padding-right:3rem ;
+    border-right: 1px solid #D8D8D8;
+}
+.inc-value{
+    color: #2ECC75;
+}
+.exp-value{
+    color: #C0392B;
+}

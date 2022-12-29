@@ -1,0 +1,24 @@
+{
+  "moneyhistory": [
+    {
+      "id": 1,
+      "netcost_name": "eating",
+      "netcost": 100
+    },
+    {
+      "id": 2,
+      "netcost_name": "drinking",
+      "netcost": 500
+    },
+    {
+      "id": 3,
+      "netcost_name": "cycling",
+      "netcost": -300
+    },
+    {
+      "netcost_name": "amazing",
+      "netcost": -100,
+      "id": 6
+    }
+  ]
+}
